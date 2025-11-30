@@ -10,3 +10,9 @@ Project Link:
 
 You can access the live project on Hugging Face here: https://huggingface.co/spaces/11Mohamed121/UBER
 
+
+
+Project video and proposal link:
+
+https://drive.google.com/drive/folders/10dtEK6Py29REL4B1M2JzU6V3wDKznPSB?usp=sharing
+
